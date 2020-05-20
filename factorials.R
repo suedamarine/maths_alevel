@@ -81,3 +81,19 @@ identical(a,b)
 # (9^1/2)^2 = 9^1 = 9
 # re-arragne: 9^(1/2) = sqrt(9)
 # so a^(1/n) = nth root a
+
+# problems 
+# 64^(2/3); is it 8, 16, or 128/3
+# 64^(-1/3); is it -4, -1/4, 4 or 1/4
+
+# 64^(2/3) = 64^((1/3)*2) = (64^(1/3))^2 = 4^2
+# 64^(-1/3) = 1/64^(1/3) = 1/4
+
+# the tricky problem sqrt(254016)
+# do prime factorisation to get 2^6 * 3^4 * 7^2 = 254016
+# (2^3 * 3^2 * 7) * (2^3 * 3^2 * 7) = 254016 so sqrt(254016) = (2^3 * 3^2 * 7)
+# or sqrt(254016) = (2^6)^(1/2) * (3^2)^(1/2) * 7^(1/2)
+# so sqrt(254016) = 8 * 9 * 7
+
+# assessment questions
+
